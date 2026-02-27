@@ -1,0 +1,24 @@
+{
+  "name": "deadline-tracker",
+  "version": "1.0.0",
+  "description": "Automatically tracks and reports task progress to ensure OpenClaw meets deadlines and maintains accountability.",
+  "main": "scripts/cli.js",
+  "bin": {
+    "deadline-tracker": "./scripts/cli.js"
+  },
+  "scripts": {
+    "start": "node scripts/cli.js status --demo",
+    "test": "node --test scripts/*.test.js"
+  },
+  "keywords": [
+    "deadline",
+    "tracker",
+    "progress",
+    "accountability",
+    "openclaw"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
