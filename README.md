@@ -11,8 +11,6 @@ See the source code for full details and usage instructions.
 
 Source code: [github.com/NeoSkillFactory/deadline-tracker](https://github.com/NeoSkillFactory/deadline-tracker)
 
-**Price suggestion:** $12 USD
-
 ## License
 
 MIT © NeoSkillFactory
