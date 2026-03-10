@@ -4,7 +4,7 @@
 
 > Automatically tracks and reports task progress to ensure OpenClaw meets deadlines and maintains accountability.
 
-deadline-tracker is a skill that automatically tracks and reports task progress to ensure openclaw meets deadlines and maintains accountability.  
+deadline-tracker Automatically tracks and reports task progress to ensure openclaw meets deadlines and maintains accountability.  
 See the source code for full details and usage instructions.
 
 ## GitHub
